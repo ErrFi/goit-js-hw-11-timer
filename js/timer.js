@@ -105,7 +105,7 @@ class CountDownTimer {
 
 const timer = new  CountDownTimer({
 	selector: '#timer-1',
-	targetDate: new Date('Feb 8, 2021')
+	targetDate: new Date('Feb 14, 2021')
 });
 
 timer.start();
